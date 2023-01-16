@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+body{
+    background-color: #F8EFBA;
+}
+
+
+.tela{
+    border: 1px solid black;
+    height: 400px;
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+    margin-top: 60px;
+    border-radius: 10px;
+    background-color:#B33771;
+    font-family: 'Courier New', Courier, monospace;
+}
+.titulo{
+    
+    font-weight: bold;
+    height: 20px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    
+    
+}
+.formulario{
+    width: 200px;
+    margin: auto;
+    margin-top: 50px;
+}
+.formulario input{
+    margin: 6px;
+    height: 30px;
+    width: 200px;
+}
+
+.botao{
+    text-align: center;
+        
+}
+
+div button{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    padding: 4px;
+    width: 130px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color:#82589F;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+#resultado{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 40px;
+    font-size: 30px;
+    
+}
